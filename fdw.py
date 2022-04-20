@@ -124,11 +124,9 @@ logo =""##    ##    ###    ########  ########   #######
 ##  #### ######### ##     ## ##     ## ##     ##    
 ##   ### ##     ## ##     ## ##     ## ##     ##    
 ##    ## ##     ## ########  ########   #######     
-\033[1;91m Author      : Nabbo
-\033[1;91m GitHub      : https://github.com/fuccdaworld
-\033[1;91m Facebook : Saxon Nahuel
-\033[1;97m--------------------------------------------------
-"""
+Author      : Nabbo
+GitHub      : https://github.com/fuccdaworld
+Facebook    : Saxon Nahuel
 
 
 ### Logo
@@ -1402,7 +1400,7 @@ def folder():
 
 
    	
-if __nabbo__=='__main__':
+if __name__=='__main__':
 	os.system('git pull')
 	folder()
 	menu()
