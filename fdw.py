@@ -125,7 +125,6 @@ logo =""##    ##    ###    ########  ########   #######
 ##   ### ##     ## ##     ## ##     ## ##     ##    
 ##    ## ##     ## ########  ########   #######     
 Author      : Nabbo
-GitHub      : https://github.com/fuccdaworld
 Facebook    : Saxon Nahuel
 
 
